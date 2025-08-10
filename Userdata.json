@@ -16,5 +16,11 @@
         "key": "revan12",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1f3e265a8e8d2038",
+        "key": "kayanan",
+        "expirydate": "15-12-2030",
+        "Allowoffline": false
     }
 ]
