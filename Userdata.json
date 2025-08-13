@@ -22,5 +22,11 @@
         "key": "kayanan",
         "expirydate": "15-12-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5b37e6c2534685c0",
+        "key": "Maruthu2007~#",
+        "expirydate": "15-12-2030",
+        "Allowoffline": false
     }
 ]
