@@ -34,5 +34,11 @@
         "key": "Kajii 96",
         "expirydate": "15-12-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "904a9bd2fd26a41f",
+        "key": "DK",
+        "expirydate": "15-12-2030",
+        "Allowoffline": false
     }
 ]
