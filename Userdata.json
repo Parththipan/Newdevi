@@ -40,5 +40,11 @@
         "key": "DK",
         "expirydate": "15-12-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9b69d575b1c278d6",
+        "key": "2511",
+        "expirydate": "15-12-2030",
+        "Allowoffline": false
     }
 ]
