@@ -52,5 +52,11 @@
         "key": "Apisek",
         "expirydate": "15-12-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8f7294c7b3d3c37c",
+        "key": "Ammu@",
+        "expirydate": "15-12-2030",
+        "Allowoffline": false
     }
 ]
