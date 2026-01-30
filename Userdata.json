@@ -59,4 +59,10 @@
         "expirydate": "15-12-2030",
         "Allowoffline": false
     },
+    {
+        "device_id": "fb63401c51ccb7a1",
+        "key": "Nilaksan",
+        "expirydate": "15-12-2030",
+        "Allowoffline": false
+    },
 ]
